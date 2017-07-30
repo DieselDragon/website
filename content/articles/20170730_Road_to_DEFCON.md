@@ -25,6 +25,7 @@ As this article is pretty massive, it's broken down into sections which should b
   * [Intercity buses](#rtd-112)
   * [Railways](#rtd-113)
 3. [Things to Do](#rtd-15)
+  * [Ladies and Gents of Ill-Repute](#rtd-169)
 4. [Shopping Hints 'n' Tips](#rtd-20)
 5. [Other stuff you don't want to forget...](#rtd-50)
 
@@ -106,6 +107,13 @@ Railways aside, the United States has comparable public transportation to the UK
 
 ## Things to Do <a name="rtd-15"/>
 
+
+### Ladies and Gents of Ill-Repute <a name="rtd-169"/>
+
+* Engagement with prostitutes aound Las Vegas and Reno should be avoided as - Contrary to common understanding - This is illegal in both cities, and the Police may take interest in such cases. Certain counties within Nevada permit licensed prostitution, and [This Wikipedia section](https://en.wikipedia.org/wiki/Prostitution_in_Nevada#Legal_situation) gives clear details and rationale.
+* If intending to indulge in that particular activity though, the importance of using only established and licensed houses must be strongly emphesised. Not only will you stay on the right side of the Law (Which helps a lot in the US!) but - Most importantly - You'll be supporting the consensual, legitimate and non-exploitative side of the sex industry.
+* Remember that it is a legal requirement to take precautions, and PPE must be worn throughout. Note that the most popular brand of PPE in the United States is "*Trojan*", and these are routinely offered in sizes Small, Medium, and Liar.
+
 ---
 
 ## Shopping Hints 'n' Tips <a name="rtd-20"/>
@@ -115,11 +123,3 @@ Railways aside, the United States has comparable public transportation to the UK
 ## Other stuff you don't want to forget... <a name="rtd-50"/>
 
 * Sun cream, even if you tan well. That sun is powerful, intense, and summer temps tend toward the high 40s and even 50s (Celsius!!!)
-
-
-
-
-
-
-
-* Amtrak: Avoid like the plague. They make even Southern look competent, and are the only rail company whose trains routinely get overtaken by stationary objects. You'd genuinely get there quicker (And more refreshed) using a bicycle.
