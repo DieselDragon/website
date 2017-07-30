@@ -16,7 +16,14 @@ _An assortment of helpful hints, tips, need-to-knows and things to remember when
 As this article is pretty massive, it's broken down into sections which should be quicker and easier for people to digest. :-)
 
 1. [Know Before You Go](#rtd-05)
+  * [Documentation](#rtd-061)
+  * [Cash and ATMs](#rtd-062)
+  * [PCs, phones, laptops & data storage devices](#rtd-063)
 2. [Getting Around](#rtd-10)
+  * [Local transportation](#rtd-110)
+  * [Regional and Intercity air travel](#rtd-111)
+  * [Intercity buses](#rtd-112)
+  * [Railways](#rtd-113)
 3. [Things to Do](#rtd-15)
 4. [Shopping Hints 'n' Tips](#rtd-20)
 5. [Other stuff you don't want to forget...](#rtd-50)
@@ -27,7 +34,7 @@ As this article is pretty massive, it's broken down into sections which should b
 
 A list of things that you'll almost certainly need to have in hand before you set off for the airport...
 
-### Documentation (And I don't just mean README.TXT!)
+### Documentation (And I don't just mean README.TXT!) <a name="rtd-061"/>
 
 * ESTA: *Required* to even board a flight to the U.S. Applications via [US CBP ESTA Programme](https://esta.cbp.dhs.gov) (Fee payable)
 * Passport: If you havn't got a valid one in hand at least a month before you go, forget it! Even the "_expedited_" application process might not be quick enough.
@@ -35,7 +42,7 @@ A list of things that you'll almost certainly need to have in hand before you se
 * **Fully Comprehensive** Travel Insurance: Importance of this can't be emphesised enough. Even if ObamaCare wasn't in jepordy from the current administration (Mid 2017) it might not be available to foreign tourists, and valid insurance cover may be a legal requirement to enter the United States. If nothing else, cover means if you pass out from too much fun and wake up in the ER you won't be in indentured servitude for the rest of your days!
 * Maps: Vegas city is in two main sections about two miles apart, so helps to know what's where and the routes between them. Although online maps can be great for this, nothing beats a paper map if your phone battery runs out or data is costing wayyy too much!
 
-### Cash (And ATM Machines)
+### Cash (And ATM Machines) <a name="rtd-062"/>
 
 * Spending money: As a general rule it's probably best to allow about $100/day IF you're good at doing things on the cheap. For average travellers, a budget of $150-200/day might be a safer bet.
 * If going to gaming cities or Native Reservations and planning to hit the casinos (Who doesn't?) multiply those figures by at least 10-25 or more, depending on what sort of gambler you are. Always [Gamble Aware](https://www.gambleaware.co.uk) and *make sure* that you leave your credit cards in the hotel safe before you enter the casino!!!
@@ -47,7 +54,7 @@ A list of things that you'll almost certainly need to have in hand before you se
 * Above note about account types doesn't appear to apply to pre-paid currency cards, which seem to be set-up debit-only so they may not offer that option. It's worth noting that Caxton FX don't charge fees for ATM withdrawls either (At time of writing) though FairFX tend to offer a slightly better exchange rate.
 * Casino ATMs will charge you a fee of about eight dollars a time, so best to find a CVS or mini-mart with an ATM instead if you can.
 
-### PCs, phones, laptops & data storage devices
+### PCs, phones, laptops & data storage devices <a name="rtd-063"/>
 
 * Expect these to be dumped in full to US-CBP servers on arrival, and expect a requirement to surrender any keys for crypto'd storage too. Wiped and very clean devices tend to be regarded suspect, so scrub/sterilise them well in advance of travel and let them pick up a good few weeks of reasonable use and browsing history courtesy of friends, family and the kids. :-)
 * Alternatively: Take no devices, and buy in the US instead. Keep your receipts (Ask for Global Refund receipts) and you can claim back the taxes upon return to the UK if you wish! :-)  
@@ -59,14 +66,14 @@ A list of things that you'll almost certainly need to have in hand before you se
 
 Railways aside, the United States has comparable public transportation to the UK and as a general rule this is easy enough to use with a few exceptions here and there.
 
-### Local transportation
+### Local transportation <a name="rtd-110"/>
 
 * Most cities have plenty of taxis about, and on-demand private hire services (Usually Lyft and Uber) are generally available too. Some places may have carpooling schemes accessible through apps like BlaBlaCar and other services, and these may be preferable to hiring a car outright.
 * Certain locations and businesses - Generally hotels, casinos and certain out-of-town concerns - Also provide complimentary shuttle services on request, and these are generally but a phone call away. As is general practice around the US, tips are greatly appreciated. :-)
 * Local bus networks are often similar to those in Europe, but beware that certain locations (Orange County CA and New York City) have networks that operate in very odd ways and can be difficult for those not accustomed to them. DieselDragon suggests avoiding OCTA buses like your life depends upon it!
 * Those going to DEFCON on a budget; Local bus routes do serve Las Vegas airport, but they call at the bottom of the short-stay multi-storey car park and not the arrivals pickup/dropoff lane like you'd imagine. Airport staff will be able to direct you if necessary, and journey time to the main bus station is about 35 minutes.
 
-### Regional and Intercity air travel
+### Regional and Intercity air travel <a name="rtd-111"/>
 
 * The United States is well known for it's ready use of intercity air travel, and the quantity of routes and options can simply be staggering in many cases. Although even short-distance flight is regarded routine in the US, this does come with caveats (Check-in times, baggage limitations etc) and other options might be better for tourist purposes.
 * If looking for flight options for any given journey, you might be able to save a few bucks by taking an indirect route with changes versus a direct flight. Also consider less popular nearby airports (i.e: Newark NJ instead of JFK) and cheap, remote airports with usable connections to the Greyhound network. (See below)
@@ -75,7 +82,7 @@ Railways aside, the United States has comparable public transportation to the UK
 * Alternative airports for DEFCON: Greyhound takes about 6-8h from either Los Angeles CA or Denver CO, about 12-15h from San Francisco CA (Via Los Angeles) and this is guaranteed to be quicker, easier and cheaper than using a hire car to complete your journey. South West ~~trains~~ Airlines probably run shuttle flights between all of these airports as well, and they are generally cheap enough if booked well in advance.
 * Alternative airports for HOPE: Consider Newark NJ, Philadelphia PA, Baltimore MD, Boston MA, Washington DC, Chicago IL and Atlanta GA. Greyhound serve all of these cities with direct buses to New York City, and the first five are also fairly accessible via Amtrak services along the North East Corridor mainline. (Though note important warnings about the railway below!)
 
-### Intercity buses (Coaches)
+### Intercity buses (Coaches) <a name="rtd-112"/>
 
 * Alternative airports for DEFCON: Greyhound takes about 6-8h from either Los Angeles CA or Denver CO, about 12-15h from San Francisco CA (Via Los Angeles) and it's guaranteed to be quicker, easier and cheaper than using a hire car to transfer between them.
 * Although Greyhound are a great way to get about between cities, they're not the most punctual option. Allow yourself about 9-12h slack time per 1,000 miles and you should be fine.
@@ -84,7 +91,7 @@ Railways aside, the United States has comparable public transportation to the UK
 * On that same token, CoachUSA are a Stagecoach operation. This should imply that Greyhound will offer the better fares between the two, but this could vary and you should shop around when buying bus tickets.
 * In some cities you may find smaller, independant bus operations often referred to as "Chinatown buses". Although these are cheaper than Greyhound for most given journeys the standards of security, baggage safety, general safety and passenger loadings can vary widely on these, and so should be used with caution.
 
-### Railways
+### Railways <a name="rtd-113"/>
 
 * Although the United States _does_ have a passenger railway network - [Amtrak](https://www.amtrak.com) - Their service is vastly inferior to that offered by most European railway operators, the passenger experience is vastly different to that found in the UK, and fares tend to be _MUCH_ higher than Greyhound for comparable journeys (Though some good bargains can be had on Advance fares from time to time).
 * You may be familiar with European railway networks being passenger railways which also carry freight? Well; The American network is the *freight railway which also carries passengers*, and because of this - And the fact that freight trains (Which outnumber passenger trains by about 80:1) are given right-of-way over passenger trains - Journeys on scAmtrak can incur delays of many hours, and even *days* on worryingly frequent occasions.
